@@ -1,0 +1,5 @@
+TPLink_TCP_Test/bin/**
+TPLink_TCP_Test/obj/**
+packages/**
+.vs/**
+
